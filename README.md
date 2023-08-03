@@ -43,11 +43,3 @@ weather-app
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-The Weather App was developed as part of a learning exercise and is based on the knowledge and skills gained during the training. Special thanks to the developers of the [OpenWeatherMap API](https://openweathermap.org/api) for providing access to their weather data.
-
-## Disclaimer
-
-This project is for educational purposes and may not be suitable for production use. The accuracy of weather data and reliability of the OpenWeatherMap API are beyond the scope of this project. Use at your own risk.
