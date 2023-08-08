@@ -32,12 +32,12 @@ The project directory has the following structure:
 ```
 weather-app
 ├── index.html
-├── styles.css
+├── style.css
 └── script.js
 ```
 
 - `index.html`: Contains the HTML structure of the Weather App.
-- `styles.css`: Provides the CSS styling for the app interface.
+- `style.css`: Provides the CSS styling for the app interface.
 - `script.js`: Implements the JavaScript logic to fetch weather data from the OpenWeatherMap API and display it on the app.
 
 ## License
